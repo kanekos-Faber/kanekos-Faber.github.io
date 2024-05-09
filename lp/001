@@ -1,0 +1,10 @@
+<html>
+<title>Here is LP 001!</title>
+<body>
+<p id="id_target">This is target text of id target</p>
+<p class="class_target">This is target text of class target</p>
+<p class="class_target">This is target text of xpath target</p>
+<a href="https://kanekos-Faber.github.io/lp/001/thx.php">This is target link full path</a>
+<a href="/lp/001/thx.php">This is target link relative path</a>
+</body>
+</html>
